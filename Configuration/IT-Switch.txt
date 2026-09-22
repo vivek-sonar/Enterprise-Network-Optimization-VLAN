@@ -1,0 +1,11 @@
+hostname IT
+
+vlan 20
+ name IT
+
+interface FastEthernet0/1
+ switchport access vlan 20
+ switchport mode access
+
+interface FastEthernet0/24
+ switchport mode trunk
