@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates the design and implementation of a segmented enterprise network using Cisco Packet Tracer.
+This project demonstrates the design and implementation of an enterprise-style segmented network using Cisco Packet Tracer.
 
 The network separates HR and IT departments using VLANs and enables communication between different VLANs using Layer 3 Inter-VLAN Routing.
 
@@ -128,21 +128,23 @@ Enterprise-Network-Optimization-VLAN/
     ├── connectivity-test.png
     └── README.md
 
-Learning Outcomes
-Through this project, I gained practical experience in:
+## Learning Outcomes
 
-Enterprise network design
-VLAN segmentation
-Access and trunk port configuration
-Layer 3 switching
-Inter-VLAN routing
-IPv4 addressing and subnetting
-Network troubleshooting
-End-to-end connectivity verification
+Through this Cisco Packet Tracer project, I developed hands-on understanding of:
+
+- Enterprise-style network design
+- VLAN segmentation
+- Access and trunk port configuration
+- Layer 3 switching
+- Inter-VLAN routing
+- IPv4 addressing and subnetting
+- Network troubleshooting
+- End-to-end connectivity verification
 
 Project Files
 The complete Cisco Packet Tracer project file and supporting documentation are available in this repository.
 
-Author
-Vivek Sonar
-Network Engineer | CCNA Certified
+## Author
+
+Vivek Sonar  
+CCNA Certified | Aspiring Network Engineer
